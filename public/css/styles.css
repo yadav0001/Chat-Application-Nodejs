@@ -21,7 +21,18 @@ body {
 }
 
 h1 {
-    margin-bottom: 16px;
+    margin-bottom: 10px;
+}
+
+#online{
+    margin-bottom: 10px;
+    text-align: center;
+    color: green;
+}
+#number-online{
+    font-weight: bolder;
+    /* color: #0070CC; */
+    color: red;
 }
 
 label {
